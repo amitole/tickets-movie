@@ -1,6 +1,9 @@
-This is a Movie Tickets app 
+This is a Movie Tickets app
 
-- step for installation:
-  * clone the project
-  * run npm install
-  * run npm run dev
+installation:
+------------
+
+- clone the repository.
+- open terminal and go to root project.
+- run npm install.
+- after installation run npm run dev.
