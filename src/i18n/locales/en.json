@@ -1,0 +1,84 @@
+{
+  "common": {
+    "bookMoreTickets": "Book More Tickets",
+    "proceed": "Proceed to Payment",
+    "selectSeats": "Select Seats",
+    "screen": "SCREEN",
+    "available": "Available",
+    "selected": "Selected",
+    "booked": "Booked",
+    "total": "Total",
+    "pay": "Pay",
+    "close": "Close"
+  },
+  "movies": {
+    "title": "Movies",
+    "searchPlaceholder": "Search movies...",
+    "allGenres": "All Genres",
+    "genre": "Genre",
+    "duration": "Duration",
+    "rating": "Rating",
+    "searchError": "Special characters have been removed from your search",
+    "noResults": "No movies found matching your criteria. Try adjusting your filters."
+  },
+  "booking": {
+    "selectMovieFirst": "Please select a movie and showtime first.",
+    "backToMovies": "Back to Movies",
+    "selectShowtime": "Select a Showtime",
+    "seatsAvailable": "{{count}} seats available",
+    "selectedSeats": "Selected Seats: {{seats}}",
+    "seatSelection": "Seat Selection",
+    "seatGapTitle": "Seating Arrangement Issue",
+    "seatGapMessage": "Your selection would leave a single seat gap. Please adjust your selection to ensure all seats are efficiently used.",
+    "adjustSelection": "Adjust Selection",
+    "singleSeatWarning": "Your selection would leave a single seat gap. Please adjust your selection.",
+    "maxSeatsReached": "Maximum number of seats (6) selected",
+    "showtime": "{{theater}} - {{time}}"
+  },
+  "payment": {
+    "title": "Payment Details",
+    "contactDetails": "Contact Details",
+    "fullName": "Full Name",
+    "fullNamePlaceholder": "John Doe",
+    "email": "Email",
+    "emailPlaceholder": "john@example.com",
+    "discountCode": "Discount Code",
+    "discountPlaceholder": "Enter code",
+    "apply": "Apply",
+    "serviceFee": "Service Fee",
+    "tickets": "Tickets ({{count}} × ${{price}})",
+    "ticketCount": "{{count}} ticket",
+    "ticketCount_plural": "{{count}} tickets",
+    "seats": "Seats: {{seats}}",
+    "totalAmount": "Total Amount",
+    "discount": "Discount (50% off)",
+    "reservationSummary": "Reservation Summary",
+    "payButton": "Pay ${{amount}}",
+    "invalidCode": "Invalid discount code",
+    "discountApplied": "Discount code applied successfully!",
+    "enterCode": "Please enter a discount code",
+    "minTickets": "Discount code requires more than 1 ticket",
+    "evenTickets": "Discount code requires an even number of tickets",
+    "errors": {
+      "emailRequired": "Email is required",
+      "emailInvalid": "Please enter a valid email",
+      "nameRequired": "Full name is required",
+      "fullNameRequired": "Please enter your full name"
+    }
+  },
+  "confirmation": {
+    "success": "Booking Confirmed!",
+    "successMessage": "Your tickets have been booked successfully",
+    "bookingId": "Booking ID: {{id}}",
+    "movieDetails": "Movie Details",
+    "showtime": "Showtime",
+    "theater": "Theater",
+    "seats": "Seats",
+    "paymentSummary": "Payment Summary",
+    "instructions": "Please arrive at least 15 minutes before the show time. Show this confirmation at the ticket counter to collect your tickets."
+  },
+  "languages": {
+    "en": "English",
+    "he": "עברית"
+  }
+}

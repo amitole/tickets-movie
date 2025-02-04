@@ -1,0 +1,84 @@
+{
+  "common": {
+    "bookMoreTickets": "הזמן כרטיסים נוספים",
+    "proceed": "המשך לתשלום",
+    "selectSeats": "בחר מושבים",
+    "screen": "מסך",
+    "available": "פנוי",
+    "selected": "נבחר",
+    "booked": "תפוס",
+    "total": "סה״כ",
+    "pay": "שלם",
+    "close": "סגור"
+  },
+  "movies": {
+    "title": "סרטים",
+    "searchPlaceholder": "חפש סרטים...",
+    "allGenres": "כל הז'אנרים",
+    "genre": "ז'אנר",
+    "duration": "משך",
+    "rating": "דירוג",
+    "searchError": "תווים מיוחדים הוסרו מהחיפוש",
+    "noResults": "לא נמצאו סרטים התואמים את החיפוש. נסה לשנות את הסינון."
+  },
+  "booking": {
+    "selectMovieFirst": "אנא בחר סרט ושעה תחילה.",
+    "backToMovies": "חזור לסרטים",
+    "selectShowtime": "בחר הקרנה",
+    "seatsAvailable": "{{count}} מושבים פנויים",
+    "selectedSeats": "מושבים נבחרים: {{seats}}",
+    "seatSelection": "בחירת מושבים",
+    "seatGapTitle": "בעיה בסידור הישיבה",
+    "seatGapMessage": "הבחירה שלך תשאיר מושב בודד. אנא התאם את הבחירה כדי להבטיח שימוש יעיל בכל המושבים.",
+    "adjustSelection": "התאם בחירה",
+    "singleSeatWarning": "הבחירה שלך תשאיר מושב בודד. אנא התאם את הבחירה.",
+    "maxSeatsReached": "נבחר מספר מקסימלי של מושבים (6)",
+    "showtime": "{{theater}} - {{time}}"
+  },
+  "payment": {
+    "title": "פרטי תשלום",
+    "contactDetails": "פרטי התקשרות",
+    "fullName": "שם מלא",
+    "fullNamePlaceholder": "ישראל ישראלי",
+    "email": "דוא״ל",
+    "emailPlaceholder": "israel@example.com",
+    "discountCode": "קוד הנחה",
+    "discountPlaceholder": "הכנס קוד",
+    "apply": "החל",
+    "serviceFee": "דמי שירות",
+    "tickets": "כרטיסים ({{count}} × ${{price}})",
+    "ticketCount": "כרטיס {{count}}",
+    "ticketCount_plural": "{{count}} כרטיסים",
+    "seats": "מושבים: {{seats}}",
+    "totalAmount": "סכום כולל",
+    "discount": "הנחה (50%)",
+    "reservationSummary": "סיכום הזמנה",
+    "payButton": "שלם ${{amount}}",
+    "invalidCode": "קוד הנחה לא תקין",
+    "discountApplied": "קוד ההנחה הופעל בהצלחה!",
+    "enterCode": "אנא הכנס קוד הנחה",
+    "minTickets": "קוד ההנחה דורש יותר מכרטיס אחד",
+    "evenTickets": "קוד ההנחה דורש מספר זוגי של כרטיסים",
+    "errors": {
+      "emailRequired": "נדרש דוא״ל",
+      "emailInvalid": "אנא הכנס כתובת דוא״ל תקינה",
+      "nameRequired": "נדרש שם מלא",
+      "fullNameRequired": "אנא הכנס שם מלא"
+    }
+  },
+  "confirmation": {
+    "success": "ההזמנה אושרה!",
+    "successMessage": "הכרטיסים שלך הוזמנו בהצלחה",
+    "bookingId": "מספר הזמנה: {{id}}",
+    "movieDetails": "פרטי הסרט",
+    "showtime": "שעת הקרנה",
+    "theater": "אולם",
+    "seats": "מושבים",
+    "paymentSummary": "סיכום תשלום",
+    "instructions": "אנא הגיעו לפחות 15 דקות לפני תחילת ההקרנה. הציגו אישור זה בקופות לקבלת הכרטיסים."
+  },
+  "languages": {
+    "en": "English",
+    "he": "עברית"
+  }
+}
